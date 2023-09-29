@@ -1,7 +1,7 @@
 # Real-time-Stock-market-project
 ## INTRODUCTION  
-In this project, we took some stock market data, we used python to produce that data and put it into kafka cluster  
-After that, we consumed that data and store it into amazon s3, we crawl that data to build a catalog and analyse  
+In this project, we took some stock market data, we used python to produce that data and put it into kafka cluster<br>
+After that, we consumed that data and store it into amazon s3, we crawl that data to build a catalog and analyse<br>
 that data in aws athena using sql to get useful insights.  
 Here are the major steps that guide our project:  
   
